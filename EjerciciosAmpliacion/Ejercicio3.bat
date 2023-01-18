@@ -17,10 +17,4 @@ echo Ganan pares
 ) else (
 echo Ganan nones
 )
-if %eleccion1% equ 1 (
-echo HAS GANADO
-) else (
-echo has perdido
-)
-
 pause>nul
